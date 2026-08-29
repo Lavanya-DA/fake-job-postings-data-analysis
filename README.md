@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Validation-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-
+ 
 An independent data analytics project identifying reliable fraud indicators in online job postings, using a real-world dataset of 17,079 listings.
 
 🔗 Live write-up: https://github.com/Lavanya-DA
